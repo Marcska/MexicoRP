@@ -7,6 +7,8 @@ Apartments.Locations = {
         label = "South Rockford Drive",
         coords = {
             enter = vector4(-667.02, -1105.24, 14.63, 242.32),
+            x = 28,
+            y = 33
         },
         polyzoneBoxData = {
             heading = 245,
@@ -21,43 +23,11 @@ Apartments.Locations = {
     },
     ["apartment2"] = {
         name = "apartment2",
-        label = "Morningwood Blvd",
-        coords = {
-            enter = vector4(-1288.52, -430.51, 35.15, 124.81),
-        },
-        polyzoneBoxData = {
-            heading = 124,
-            minZ = 34.0,
-            maxZ = 37.0,
-            debug = false,
-            length = 1,
-            width = 3,
-            distance = 2.0,
-            created = false
-        }
-    },
-    ["apartment3"] = {
-        name = "apartment3",
-        label = "Integrity Way",
-        coords = {
-            enter = vector4(269.73, -640.75, 42.02, 249.07),
-        },
-        polyzoneBoxData = {
-            heading = 250,
-            minZ = 40,
-            maxZ = 43.5,
-            debug = false,
-            length = 1,
-            width = 1,
-            distance = 2.0,
-            created = false
-        }
-    },
-    ["apartment4"] = {
-        name = "apartment4",
         label = "Tinsel Towers",
         coords = {
             enter = vector4(-619.29, 37.69, 43.59, 181.03),
+            x = 41,
+            y = 32
         },
         polyzoneBoxData = {
             heading = 180,
@@ -70,11 +40,13 @@ Apartments.Locations = {
             created = false
         }
     },
-    ["apartment5"] = {
-        name = "apartment5",
+    ["apartment3"] = {
+        name = "apartment3",
         label = "Fantastic Plaza",
         coords = {
             enter = vector4(291.517, -1078.674, 29.405, 270.75),
+            x = 28.5,
+            y = 47
         },
         polyzoneBoxData = {
             heading = 270,
